@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<packaging>war</packaging>
-	<groupId>com.stacksimplify.restservices</groupId>
+	<groupId>com.devsecops.restservices</groupId>
 	<artifactId>usermgmt-webapp</artifactId>
 	<version>1.0.0-MySQLDB</version>	
 	<name>kube-usermgmt-webapp</name>
@@ -120,7 +120,7 @@
 							</execution>
 						</executions>
 						<configuration>
-							<repository>stacksimplify/${project.name}</repository>
+							<repository>devsecops/${project.name}</repository>
 							<tag>${project.version}</tag>
 							<skipDockerInfo>true</skipDockerInfo>
 						</configuration>

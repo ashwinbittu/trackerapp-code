@@ -1,4 +1,4 @@
-package com.stacksimplify.restservices;
+package com.devsecops.restservices;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
