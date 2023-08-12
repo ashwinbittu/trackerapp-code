@@ -1,7 +1,7 @@
 
 <nav role="navigation" class="navbar navbar-inverse">
 	<div class="">
-		<a href="https://courses.stacksimplify.com" class="navbar-brand">STACKSIMPLIFY</a>
+		<a href="https://devsecopstracker.com" class="navbar-brand">Tracker DevSecOps Application</a>
 	</div>
 	<div class="navbar-collapse">
 		<ul class="nav navbar-nav">
@@ -20,8 +20,8 @@
 
 <nav class="navbar navbar-inverse navbar-fixed-bottom">
   <div class="container-fluid">
-      <div class="footer-copyright text-center py-3" style="color:white;" >© Copyright 2020:
-    <a href="https://courses.stacksimplify.com/" style="color:white;" >www.stacksimplify.com</a>
+      <div class="footer-copyright text-center py-3" style="color:white;" >ï¿½ Copyright 2020:
+    <a href="https://devsecopstracker.com/" style="color:white;" >www.devsecopstracker.com</a>
   </div>
   
 
